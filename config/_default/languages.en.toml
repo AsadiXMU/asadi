@@ -1,0 +1,17 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Tori's Website"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+["params.author"]
+name = "Tori"
+email = "asadixmu@aliyun.com"
+headline = "Starriver Billigual School"
+bio = "Tori Zhu studies at Shanghai Starriver Billigual School, main rearch is maths."

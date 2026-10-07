@@ -1,0 +1,46 @@
+[[main]]
+name = "Arts"
+pre = "apple"
+pageRef = "arts"
+identifier = "0hNWghTsJU"
+weight = 9_999
+
+[[main]]
+name = "Maths"
+pre = "star"
+pageRef = "maths"
+identifier = "y2je4uSTct"
+weight = 9_999
+
+[[main]]
+name = "musics"
+pre = "music"
+pageRef = "musics"
+identifier = "qDnaUo7ab2"
+weight = 9_999
+
+[[main]]
+pageRef = "newSite"
+identifier = "UmWrb03Aus"
+weight = 9_999
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Arts"
+pageRef = "arts"
+identifier = "mkhfpeA8l0"
+weight = 1
+
+[[footer]]
+name = "Maths"
+pageRef = "maths"
+identifier = "lX7MnqfLlq"
+weight = 9_999
+
+[[footer]]
+name = "Musics"
+pageRef = "musics"
+identifier = "JJ9ZWxyMNf"
+weight = 9_999
