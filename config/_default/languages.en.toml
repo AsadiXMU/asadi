@@ -9,9 +9,11 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+copyright = ""
 
 ["params.author"]
 name = "Tori"
 email = "asadixmu@aliyun.com"
 headline = "Starriver Billigual School"
 bio = "Tori Zhu studies at Shanghai Starriver Billigual School, main rearch is maths."
+imageQuality = "50"
