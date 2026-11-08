@@ -40,6 +40,11 @@ showCopyright = true
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
+[author]
+name = "Zitian Zhu"
+image = "profile.jpg"
+headline = "I am a high school student, and I love MATHS."
+bio = "I am a Starriver Billigual School student." # 出现在每篇文章的作者卡片中
 
 [homepage]
 layout = "hero"
