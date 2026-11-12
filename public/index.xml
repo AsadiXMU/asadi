@@ -2,14 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tori&#39;s Website</title>
-    <link>http://localhost:1313/asadi/</link>
+    <link>https://asadixmu.github.io/asadi/</link>
     <description>Recent content on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <atom:link href="http://localhost:1313/asadi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://asadixmu.github.io/asadi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>摄影展回顾</title>
+      <link>https://asadixmu.github.io/asadi/arts/photography-exhibition-review/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://asadixmu.github.io/asadi/arts/photography-exhibition-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://asadixmu.github.io/asadi/arts/photography-exhibition-review/feature.png" />
+    </item>
+    
+    <item>
+      <title>我的第一篇博客Expo Art Math</title>
+      <link>https://asadixmu.github.io/asadi/posts/arts/expo-art-math/</link>
+      <pubDate>Sun, 08 Nov 2026 11:36:01 +0800</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://asadixmu.github.io/asadi/posts/arts/expo-art-math/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

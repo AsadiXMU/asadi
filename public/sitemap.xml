@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/asadi/arts/</loc>
+    <loc>https://asadixmu.github.io/asadi/arts/</loc>
+    <lastmod>2026-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/asadi/maths/</loc>
+    <loc>https://asadixmu.github.io/asadi/</loc>
+    <lastmod>2026-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/asadi/musics/</loc>
+    <loc>https://asadixmu.github.io/asadi/arts/photography-exhibition-review/</loc>
+    <lastmod>2026-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/asadi/</loc>
+    <loc>https://asadixmu.github.io/asadi/posts/</loc>
+    <lastmod>2026-11-08T11:36:01+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://asadixmu.github.io/asadi/posts/arts/expo-art-math/</loc>
+    <lastmod>2026-11-08T11:36:01+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://asadixmu.github.io/asadi/maths/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://asadixmu.github.io/asadi/musics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

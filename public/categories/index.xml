@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tori&#39;s Website</title>
-    <link>http://localhost:1313/asadi/categories/</link>
+    <link>https://asadixmu.github.io/asadi/categories/</link>
     <description>Recent content in Categories on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <atom:link href="http://localhost:1313/asadi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://asadixmu.github.io/asadi/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arts</title>
+      <link>https://asadixmu.github.io/asadi/categories/arts/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://asadixmu.github.io/asadi/categories/arts/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
