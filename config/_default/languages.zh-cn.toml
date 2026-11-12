@@ -1,0 +1,19 @@
+disabled = false
+locale = "zh-CN"
+label = "简体中文"
+weight = 2
+title = "朱子湉的个人主页"
+
+[params]
+displayName = "中"
+isoCode = "zh-CN"
+rtl = false
+dateFormat = "2006年1月2日"
+copyright = ""
+
+["params.author"]
+name = "朱子湉"
+email = "asadixmu@aliyun.com"
+headline = "星河双语学校"
+bio = "朱子湉，就读于上海星河双语学校，热爱数学、艺术与摄影。"
+imageQuality = "50"

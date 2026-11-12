@@ -6,6 +6,18 @@ buildDrafts = false
 buildFuture = false
 enableEmoji = true
 googleAnalytics = ""
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = false
+
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en"
+    weight = 1
+  [languages.zh-cn]
+    label = "简体中文"
+    locale = "zh-CN"
+    weight = 2
 
 [pagination]
 pagerSize = 100

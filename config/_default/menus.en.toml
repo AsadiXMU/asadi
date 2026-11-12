@@ -13,7 +13,7 @@ identifier = "y2je4uSTct"
 weight = 1
 
 [[main]]
-name = "Muscis"
+name = "Music"
 pre = "music"
 pageRef = "musics"
 identifier = "NvFM26xXzO"
@@ -35,7 +35,7 @@ identifier = "pk0NwDBo88"
 weight = 2
 
 [[footer]]
-name = "Musics"
+name = "Music"
 pageRef = "musics"
 identifier = "wjnYhECvXG"
 weight = 3

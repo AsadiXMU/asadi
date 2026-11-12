@@ -1,0 +1,41 @@
+[[main]]
+name = "数学"
+pre = "star"
+pageRef = "maths"
+identifier = "y2je4uSTct"
+weight = 1
+
+[[main]]
+name = "艺术"
+pre = "apple"
+pageRef = "arts"
+identifier = "0hNWghTsJU"
+weight = 2
+
+[[main]]
+name = "音乐"
+pre = "music"
+pageRef = "musics"
+identifier = "NvFM26xXzO"
+weight = 3
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "数学"
+pageRef = "maths"
+identifier = "lX7MnqfLlq"
+weight = 1
+
+[[footer]]
+name = "艺术"
+pageRef = "arts"
+identifier = "pk0NwDBo88"
+weight = 2
+
+[[footer]]
+name = "音乐"
+pageRef = "musics"
+identifier = "wjnYhECvXG"
+weight = 3
