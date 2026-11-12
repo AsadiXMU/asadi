@@ -13,6 +13,7 @@ copyright = ""
 
 [params.author]
 name = "Tori"
+image = "profile.jpg"
 email = "asadixmu@aliyun.com"
 headline = "Shanghai Starriver Bilingual School"
 bio = "Tori Zhu studies at Shanghai Starriver Bilingual School, main research is maths."
