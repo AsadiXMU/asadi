@@ -1,0 +1,55 @@
+/* ---------- Home hero (image filter disabled) — force light text on image backdrop ---------- */
+
+/* Anchor: .home-hero-content lives inside .prose in home/hero.html — the .prose container
+   from Tailwind Typography normally darkens h1/h2 via color: var(--tw-prose-body).
+   We override everything under this one hero content block so no other prose sections
+   in the site are affected. */
+
+.home-hero-content {
+  color: rgb(var(--color-neutral-100));
+}
+
+.home-hero-content h1,
+.home-hero-content h2,
+.home-hero-content h3,
+.home-hero-content h4,
+.home-hero-content p {
+  color: rgb(var(--color-neutral-100)) !important;
+}
+
+.home-hero-content a {
+  color: rgb(var(--color-primary-100));
+}
+
+.home-hero-content a:hover {
+  color: rgb(var(--color-primary-300));
+}
+
+/* Social icons (SVG) — use currentColor so the link's text color flows through */
+.home-hero-content svg,
+.home-hero-content svg path,
+.home-hero-content svg circle,
+.home-hero-content svg rect,
+.home-hero-content svg g {
+  color: rgb(var(--color-primary-100));
+  fill: currentColor;
+}
+
+/* Hero body prose (site .Content) — inside a section.prose already */
+.home-hero-content .prose,
+.home-hero-content .prose p,
+.home-hero-content .prose li {
+  color: rgb(var(--color-neutral-100));
+}
+
+/* Keep dark-mode untouched (already has proper contrast) */
+html[data-appearance="dark"] .home-hero-content {
+  color: rgb(var(--color-neutral));
+}
+html[data-appearance="dark"] .home-hero-content h1,
+html[data-appearance="dark"] .home-hero-content h2 {
+  color: rgb(var(--color-neutral)) !important;
+}
+html[data-appearance="dark"] .home-hero-content a {
+  color: rgb(var(--color-primary-200));
+}
