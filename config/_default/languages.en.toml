@@ -11,9 +11,9 @@ rtl = false
 dateFormat = "2 January 2006"
 copyright = ""
 
-["params.author"]
+[params.author]
 name = "Tori"
 email = "asadixmu@aliyun.com"
-headline = "Starriver Biligual School"
-bio = "Tori Zhu studies at Shanghai Starriver Biligual School, main rearch is maths."
+headline = "Starriver Bilingual School"
+bio = "Tori Zhu studies at Shanghai Starriver Bilingual School, main research is maths."
 imageQuality = "50"
