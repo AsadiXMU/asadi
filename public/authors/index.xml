@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tori&#39;s Website</title>
-    <link>https://asadixmu.github.io/asadi/authors/</link>
+    <link>http://localhost:1313/asadi/authors/</link>
     <description>Recent content in Authors on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://asadixmu.github.io/asadi/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/asadi/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Zitian Zhu</title>
-      <link>https://asadixmu.github.io/asadi/authors/zitian-zhu/</link>
+      <link>http://localhost:1313/asadi/authors/zitian-zhu/</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <author>asadixmu@aliyun.com (Tori)</author>
-      <guid>https://asadixmu.github.io/asadi/authors/zitian-zhu/</guid>
+      <guid>http://localhost:1313/asadi/authors/zitian-zhu/</guid>
       <description></description>
       
     </item>

@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maths on Tori&#39;s Website</title>
-    <link>https://asadixmu.github.io/asadi/maths/</link>
+    <link>http://localhost:1313/asadi/maths/</link>
     <description>Recent content in Maths on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <atom:link href="https://asadixmu.github.io/asadi/maths/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 00:04:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/asadi/maths/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Maths Article</title>
+      <link>http://localhost:1313/asadi/maths/my-first-maths-article/</link>
+      <pubDate>Wed, 07 Oct 2026 00:04:10 +0800</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>http://localhost:1313/asadi/maths/my-first-maths-article/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/maths/my-first-maths-article/featured.png" />
+    </item>
     
   </channel>
 </rss>

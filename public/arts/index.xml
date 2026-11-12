@@ -2,23 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts on Tori&#39;s Website</title>
-    <link>https://asadixmu.github.io/asadi/arts/</link>
+    <link>http://localhost:1313/asadi/arts/</link>
     <description>Recent content in Arts on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://asadixmu.github.io/asadi/arts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/asadi/arts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>摄影展回顾</title>
-      <link>https://asadixmu.github.io/asadi/arts/photography-exhibition-review/</link>
+      <link>http://localhost:1313/asadi/arts/photography-exhibition-review/</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <author>asadixmu@aliyun.com (Tori)</author>
-      <guid>https://asadixmu.github.io/asadi/arts/photography-exhibition-review/</guid>
+      <guid>http://localhost:1313/asadi/arts/photography-exhibition-review/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://asadixmu.github.io/asadi/arts/photography-exhibition-review/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/photography-exhibition-review/feature.png" />
+    </item>
+    
+    <item>
+      <title>My First Expo</title>
+      <link>http://localhost:1313/asadi/arts/my-first-expo/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>http://localhost:1313/asadi/arts/my-first-expo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/my-first-expo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Old Art</title>
+      <link>http://localhost:1313/asadi/arts/old-art/</link>
+      <pubDate>Wed, 07 Oct 2026 00:04:31 +0800</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>http://localhost:1313/asadi/arts/old-art/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/old-art/featured.png" />
     </item>
     
   </channel>

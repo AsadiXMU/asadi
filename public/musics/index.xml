@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musics on Tori&#39;s Website</title>
-    <link>https://asadixmu.github.io/asadi/musics/</link>
+    <link>http://localhost:1313/asadi/musics/</link>
     <description>Recent content in Musics on Tori&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <atom:link href="https://asadixmu.github.io/asadi/musics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 00:04:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/asadi/musics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Favorites</title>
+      <link>http://localhost:1313/asadi/musics/my-favorites/</link>
+      <pubDate>Wed, 07 Oct 2026 00:04:42 +0800</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>http://localhost:1313/asadi/musics/my-favorites/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/musics/my-favorites/featured.png" />
+    </item>
     
   </channel>
 </rss>
