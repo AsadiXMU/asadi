@@ -9,17 +9,7 @@
     <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
     <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
     <copyright>© 2026 Tori</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 00:04:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/asadi/maths/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>My First Maths Article</title>
-      <link>http://localhost:1313/asadi/maths/my-first-maths-article/</link>
-      <pubDate>Wed, 07 Oct 2026 00:04:10 +0800</pubDate>
-      <author>asadixmu@aliyun.com (Tori)</author>
-      <guid>http://localhost:1313/asadi/maths/my-first-maths-article/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/maths/my-first-maths-article/featured.png" />
-    </item>
+    <atom:link href="http://localhost:1313/asadi/maths/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

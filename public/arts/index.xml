@@ -21,25 +21,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/photography-exhibition-review/feature.png" />
     </item>
     
-    <item>
-      <title>My First Expo</title>
-      <link>http://localhost:1313/asadi/arts/my-first-expo/</link>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <author>asadixmu@aliyun.com (Tori)</author>
-      <guid>http://localhost:1313/asadi/arts/my-first-expo/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/my-first-expo/featured.png" />
-    </item>
-    
-    <item>
-      <title>Old Art</title>
-      <link>http://localhost:1313/asadi/arts/old-art/</link>
-      <pubDate>Wed, 07 Oct 2026 00:04:31 +0800</pubDate>
-      <author>asadixmu@aliyun.com (Tori)</author>
-      <guid>http://localhost:1313/asadi/arts/old-art/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/asadi/arts/old-art/featured.png" />
-    </item>
-    
   </channel>
 </rss>
